@@ -1,13 +1,21 @@
 {
+  "4t2": [
+    "autocompounder",
+    "cw_staking"
+  ],
   "abstract": [
+    "ans-host",
+    "cw20-merkle-airdrop",
     "dex",
     "etf",
     "ibc-client",
     "manager",
+    "module_factory",
     "nois",
+    "os_factory",
     "proxy",
     "subscription",
-    "tendermint-staking",
+    "tendermint_staking",
     "version_control",
     "vesting"
   ]
